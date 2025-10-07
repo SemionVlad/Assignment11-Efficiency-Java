@@ -52,6 +52,8 @@ For academic and portfolio use only.
 
 ---
 
-## 🔒 License
+## 📄 License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
+---
+Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
