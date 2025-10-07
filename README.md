@@ -5,6 +5,10 @@
 - **ID**: *****2258   
 - **Version**: 2025B
 
+---
+
+## Overview
+
 This repository contains the solution for **Maman 11**, an academic assignment for the course *Introduction to Computer Science Using Java* (course number 20454) at the Open University of Israel.  
 The assignment focuses on **time and space complexity**, **binary search**, and **greedy algorithms** applied to efficient data structures.
 
