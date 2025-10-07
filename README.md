@@ -1,8 +1,9 @@
-# Ex11 – (Course 20454)
-## 2D Efficiency and Search Algorithms
+# Ex11 – 2D Efficiency and Search Algorithms (Course 20454)
 
-**Author:** Shimon Esterkin (SemionVlad)  
-**Version:** 2025B
+## Author
+- **Name**: Shimon Esterkin (SemionVlad)
+- **ID**: *****2258   
+- **Version**: 2025B
 
 This repository contains the solution for **Maman 11**, an academic assignment for the course *Introduction to Computer Science Using Java* (course number 20454) at the Open University of Israel.  
 The assignment focuses on **time and space complexity**, **binary search**, and **greedy algorithms** applied to efficient data structures.
@@ -46,19 +47,6 @@ The assignment received a final score of **95/100**.
 ![Final Score](Assigment%20Final%20Score%20Summerization%2095.png.png)
 
 ---
-
-## 📚 Author
-
-**Author:** Shimon Esterkin (SemionVlad)  
-**Version:** 2023B
-
----
-
-## 📄 License
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-comm
 
 ## 📄 License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
