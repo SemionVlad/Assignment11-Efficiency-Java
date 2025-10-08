@@ -6,6 +6,8 @@
 ![Focus: Greedy](https://img.shields.io/badge/Focus-Greedy-795548)
 ![Complexity: Time/Space](https://img.shields.io/badge/Complexity-Time%20%26%20Space-999)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> Java solutions for Maman 11 (course 20454): O(1)/O(log n)/O(n) methods over sum arrays and super-increasing sequences, featuring binary search and a greedy subset-sum check.
+
 
 
 ## Author
