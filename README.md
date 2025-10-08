@@ -1,4 +1,12 @@
 # Ex11 – 2D Efficiency and Search Algorithms (Course 20454)
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Paradigm: Algorithms](https://img.shields.io/badge/Paradigm-Algorithms-4c1)
+![Focus: Binary Search](https://img.shields.io/badge/Focus-Binary%20Search-0aa)
+![Focus: Greedy](https://img.shields.io/badge/Focus-Greedy-795548)
+![Complexity: Time/Space](https://img.shields.io/badge/Complexity-Time%20%26%20Space-999)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ## Author
 - **Name**: Shimon Esterkin (SemionVlad)
@@ -51,8 +59,5 @@ The assignment received a final score of **95/100**.
 ![Final Score](Assigment%20Final%20Score%20Summerization%2095.png.png)
 
 ---
-
-## 📄 License
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
